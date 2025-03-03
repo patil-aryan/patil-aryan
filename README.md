@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Web Dev, Data Science & Data Analysis**
+- 💬 Ask me about **Software Development, Generative AI, Data Science**
+  
+- 👨‍💻 All of my projects are available at [www.patilaryan.com/](www.patilaryan.com/)
 
 - 📫 How to reach me **patil11@illinois.edu**
 
