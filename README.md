@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Software Development, Generative AI, Data Science**
   
-- 👨‍💻 All of my projects are available at [www.patilaryan.com/](www.patilaryan.com/)
+- 👨‍💻 All of my projects are available at [www.patilaryan.com](https://www.patilaryan.com)
 
 - 📫 How to reach me **patil11@illinois.edu**
 
