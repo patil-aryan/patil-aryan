@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aryan Patil</h1>
-<h3 align="center">Masters in Information Management at the University of Illinois Urbana Champaign</h3>
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 💬 Ask me about **Software Development, Generative AI, Data Science**
-  
-- 👨‍💻 All of my projects are available at [www.patilaryan.com](https://www.patilaryan.com)
 
 - 📫 How to reach me **patil11@illinois.edu**
 
